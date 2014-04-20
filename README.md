@@ -1,4 +1,10 @@
 confluencepublisher
 ===================
 
-Simple command line Confluence publisher utility.
+Ant command line Confluence publisher utility.
+
+See:
+
+    src/com/froyo/confpup/ConfPubTask.java
+    
+This extends...
